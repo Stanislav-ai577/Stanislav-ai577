@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, welcome to Stanislav Fomin profile. 👋
 
+I am a junior developer of unity and I am open to suggestions for cooperation.
 <!--
 **Stanislav-ai577/Stanislav-ai577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
